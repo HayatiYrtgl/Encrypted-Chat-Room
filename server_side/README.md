@@ -1,5 +1,5 @@
 # Server Side Requiriments 
-
+In server sıde you have to open your port with ngrok.
 In server side we have two different python file.
 First one is crypto generator
 
